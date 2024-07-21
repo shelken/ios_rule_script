@@ -16,3 +16,4 @@ jobs:
           owner: blackmatrix7
           base: master
           head: master
+          ignore_fail: true
