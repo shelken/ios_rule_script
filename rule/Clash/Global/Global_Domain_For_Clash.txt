@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-21 02:12:40
-# DOMAIN: 84
+# UPDATED: 2025-03-06 02:12:42
+# DOMAIN: 97
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30771
+# DOMAIN-SUFFIX: 31141
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31008
+# TOTAL: 31391
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -64,6 +64,15 @@ medone-education.thieme.com
 mscrl.microsoft.com
 muse.jhu.edu
 nationalaustraliaban.tt.omtrdc.net
+ntp-c.colorado.edu
+ntp0.ntp-servers.net
+ntp1.ntp-servers.net
+ntp2.ntp-servers.net
+ntp3.ntp-servers.net
+ntp4.ntp-servers.net
+ntp5.ntp-servers.net
+ntp6.ntp-servers.net
+ntp7.ntp-servers.net
 nvidia.tt.omtrdc.net
 ocsp.microsoft.com
 oneocsp.microsoft.com
@@ -79,6 +88,10 @@ servd-anthropic-website.b-cdn.net
 tesla-cdn.thron.com
 tmdb-image-prod.b-cdn.net
 translomatic.foxfortmobile.com
+ut1-time.colorado.edu
+utcnist.colorado.edu
+utcnist2.colorado.edu
+utcnist3.colorado.edu
 vmware.tt.omtrdc.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
@@ -195,7 +208,6 @@ self.events.data.microsoft.com
 +.18comic-god.xyz
 +.18comic.cc
 +.18comic.company
-+.18comic.org
 +.18comic.vip
 +.18commic.com
 +.18doujin.com
@@ -727,6 +739,7 @@ self.events.data.microsoft.com
 +.acmedsci.ac.uk
 +.acmvalidations.com
 +.acmvalidationsaws.com
++.acousticbrainz.org
 +.acoustics.ac.uk
 +.acp.ac.uk
 +.acpica.com
@@ -756,6 +769,7 @@ self.events.data.microsoft.com
 +.adas.ac.uk
 +.adbecrsl.com
 +.adbkm.com
++.adblockcdn.com
 +.adcommerce.tv
 +.addison-wesley.ch
 +.addison.ac.uk
@@ -767,6 +781,7 @@ self.events.data.microsoft.com
 +.adgoogle.net
 +.adguard-dns.com
 +.adguard-dns.io
++.adguard-mail.com
 +.adguard-vpn.com
 +.adguard-vpn.online
 +.adguard.app
@@ -973,6 +988,7 @@ self.events.data.microsoft.com
 +.agenet.ac.uk
 +.agocg.ac.uk
 +.agoogleaday.com
++.agrd.eu
 +.agrd.io
 +.agressofinanceroyalholloway.ac.uk
 +.agrifoodatp.ac.uk
@@ -1007,7 +1023,6 @@ self.events.data.microsoft.com
 +.ahua.ac.uk
 +.ahvideosexe.com
 +.ahxxx.club
-+.ai.com
 +.ai3sd.ac.uk
 +.ai7995.site
 +.ai91porn.cc
@@ -1039,7 +1054,6 @@ self.events.data.microsoft.com
 +.airhorn.solutions
 +.airhornbot.com
 +.airiti.com
-+.airitilibrary.com
 +.airmax360.com
 +.airmay.com
 +.airport-gov-cn.com
@@ -1465,6 +1479,10 @@ self.events.data.microsoft.com
 +.amzn.asia
 +.amzn.com
 +.amzn.to
++.amzndns.co.uk
++.amzndns.com
++.amzndns.net
++.amzndns.org
 +.amznl.com
 +.anacams.com
 +.anaconda.cloud
@@ -1585,13 +1603,20 @@ self.events.data.microsoft.com
 +.aorus.com
 +.aoxx69.net
 +.ap-bangkok.myqcloud.com
++.ap-bangkok.tencentcos.com
 +.ap-hongkong.myqcloud.com
++.ap-hongkong.tencentcos.com
 +.ap-jakarta.myqcloud.com
++.ap-jakarta.tencentcos.com
 +.ap-mumbai.myqcloud.com
++.ap-mumbai.tencentcos.com
 +.ap-seoul.myqcloud.com
++.ap-seoul.tencentcos.com
 +.ap-singapore.myqcloud.com
++.ap-singapore.tencentcos.com
 +.ap-southeast-4.myhuaweicloud.com
 +.ap-tokyo.myqcloud.com
++.ap-tokyo.tencentcos.com
 +.ap0le.com
 +.apa.org
 +.apexlegends.com
@@ -2104,7 +2129,6 @@ self.events.data.microsoft.com
 +.asianxxxjoy.com
 +.asianxxxvideos.cc
 +.ask-sam.ac.uk
-+.ask.com
 +.askfacebook.net
 +.askfacebook.org
 +.askham-bryan.ac.uk
@@ -2387,7 +2411,6 @@ self.events.data.microsoft.com
 +.av-movie.cc
 +.av-th.net
 +.av-top.com
-+.av01.tv
 +.av11.org
 +.av1688.cc
 +.av234567.com
@@ -2647,6 +2670,7 @@ self.events.data.microsoft.com
 +.bangkokstreetwhores.com
 +.bangor-university-london.ac.uk
 +.bangor.ac.uk
++.bangumi.tv
 +.bangyourwife.com
 +.banned.video
 +.bannedbook.net
@@ -3215,6 +3239,7 @@ self.events.data.microsoft.com
 +.bfmat.ac.uk
 +.bftv.ac.uk
 +.bgc.ac.uk
++.bgm.tv
 +.bgov.com
 +.bgr.in
 +.bgs.ac.uk
@@ -3343,7 +3368,6 @@ self.events.data.microsoft.com
 +.binancecnt.com
 +.binancezh.be
 +.binancezh.biz
-+.binancezh.cc
 +.binancezh.co
 +.binancezh.com
 +.binancezh.info
@@ -3445,7 +3469,6 @@ self.events.data.microsoft.com
 +.blackboxgames.com
 +.blackburn.ac.uk
 +.blackcountryandmarchesiot.ac.uk
-+.blacked.com
 +.blackfridaydrebeatsnew.com
 +.blackfridaydrebeatsshop.com
 +.blackhomeporn.com
@@ -4069,6 +4092,7 @@ self.events.data.microsoft.com
 +.boodigogo.com
 +.book18.org
 +.book4you.org
++.bookbrainz.org
 +.bookclubcorner.com
 +.bookclubgirl.com
 +.bookfi.net
@@ -4093,7 +4117,6 @@ self.events.data.microsoft.com
 +.boomtrain.com
 +.booru.org
 +.booth.pm
-+.bootstrapcdn.com
 +.bootyliciousmag.com
 +.bootysource.com
 +.bopcris.ac.uk
@@ -4187,6 +4210,7 @@ self.events.data.microsoft.com
 +.bravoporn.com
 +.bravoteens.com
 +.bravotube.tv
++.brawlstarsgame.com
 +.brazilpartneruniversity.com
 +.brazzer.com
 +.brazzers-porno.online
@@ -4357,7 +4381,6 @@ self.events.data.microsoft.com
 +.bsixbrookehouse.ac.uk
 +.bsixbrookehousesixthformcollege.ac.uk
 +.bsixcollege.ac.uk
-+.bsky.network
 +.bsls.ac.uk
 +.bsmb.ac.uk
 +.bsms.ac.uk
@@ -4508,11 +4531,19 @@ self.events.data.microsoft.com
 +.bwin.com
 +.bwrhub.ac.uk
 +.bws.ac.uk
++.byabcde.com
 +.byam-shaw.ac.uk
 +.byapis.com
++.byapps.net
++.bybdc6.com
 +.bybeatsdre.com
++.bybit-global.com
++.bybit.biz
++.bybit.cloud
++.bybitglobal.com
 +.bycbe.com
 +.bycsi.com
++.byd3c3.com
 +.bydrebeats.com
 +.bygpp1207.world
 +.byjav.me
@@ -4525,8 +4556,8 @@ self.events.data.microsoft.com
 +.byzantium.ac.uk
 +.bzazi.com
 +.c-ij.com
++.c-msedge.net
 +.c-scaipe.ac.uk
-+.c.mi.com
 +.c0930.com
 +.c4assets.com
 +.c4ccetl.ac.uk
@@ -4747,6 +4778,7 @@ self.events.data.microsoft.com
 +.canterbury.ac.uk
 +.canterburycollege.ac.uk
 +.canterburytrust.ac.uk
++.caoporn.us
 +.cape.ac.uk
 +.capel.ac.uk
 +.capitalccg.ac.uk
@@ -5198,6 +5230,7 @@ self.events.data.microsoft.com
 +.chid.com.mm
 +.chigroup.ac.uk
 +.chihair-straightener.com
++.chii.in
 +.chikiporn.com
 +.chilbolton.ac.uk
 +.childrenofthe90s.ac.uk
@@ -5257,7 +5290,6 @@ self.events.data.microsoft.com
 +.chuzs2.xyz
 +.chwr7s8u.com
 +.chyoa.com
-+.ci-en.jp
 +.ci-en.net
 +.cia.ac.uk
 +.cias.ac.uk
@@ -5276,6 +5308,7 @@ self.events.data.microsoft.com
 +.cindymovies.com
 +.cinemax.com
 +.cinepornogratis.com
++.cinny.in
 +.cios.org
 +.ciota.ac.uk
 +.cirencester.ac.uk
@@ -5526,7 +5559,6 @@ self.events.data.microsoft.com
 +.cof.ac.uk
 +.cogc.ac.uk
 +.coinalyze.net
-+.coinbase.com
 +.coincheck.com
 +.coindesk.com
 +.coinmap.org
@@ -5748,6 +5780,7 @@ self.events.data.microsoft.com
 +.coventry.ac.uk
 +.coventrycollege.ac.uk
 +.coventryuniversity.ac.uk
++.coverartarchive.org
 +.covid19-rx.org
 +.covid19rx.org
 +.covuni.ac.uk
@@ -5832,6 +5865,7 @@ self.events.data.microsoft.com
 +.critical.ac.uk
 +.criticalfriend.ac.uk
 +.criticaltheology.ac.uk
++.critiquebrainz.org
 +.crmdynint-gcc.com
 +.crmdynint.com
 +.crocels.ac.uk
@@ -5863,6 +5897,7 @@ self.events.data.microsoft.com
 +.crustwebsites.net
 +.crypto.com
 +.cryptocompare.com
++.cryptomus.com
 +.crypton.co.jp
 +.crysis.jp
 +.crystalgunnsworld.com
@@ -6117,6 +6152,7 @@ self.events.data.microsoft.com
 +.data-service.ac.uk
 +.data.ac.uk
 +.data.com
++.data.flurry.com
 +.datafuturesalphapilot.ac.uk
 +.datagrid.ac.uk
 +.dataliberation.org
@@ -6676,6 +6712,8 @@ self.events.data.microsoft.com
 +.dndbeyond.com
 +.dns.sb
 +.dnset.com
++.dnsserver1.de
++.dnsserver2.de
 +.dnsvisa.com
 +.dnvod.tv
 +.dnvodcdn.me
@@ -6883,6 +6921,7 @@ self.events.data.microsoft.com
 +.drweb.com
 +.drweb.fr
 +.drweb.kz
++.drweb.ru
 +.drweb.uz
 +.dscis.ac.uk
 +.dses.ac.uk
@@ -7431,6 +7470,7 @@ self.events.data.microsoft.com
 +.efficiencyexchange.ac.uk
 +.efproject.net
 +.efs.ac.uk
++.eft-store.com
 +.efuckt.com
 +.efutures.ac.uk
 +.egghead.io
@@ -7670,7 +7710,6 @@ self.events.data.microsoft.com
 +.epochtimes.com.au
 +.epochtimes.com.br
 +.epochtimes.com.sg
-+.epochtimes.com.tw
 +.epochtimes.com.ua
 +.epochtimes.eu
 +.epochtimes.nl
@@ -7712,7 +7751,9 @@ self.events.data.microsoft.com
 +.ero-labs.cloud
 +.ero-labs.com
 +.ero-labs.fun
++.ero-labs.io
 +.ero-labs.net
++.ero-labs.one
 +.ero-labs.online
 +.ero-labs.site
 +.ero-ma-nia.com
@@ -7738,7 +7779,6 @@ self.events.data.microsoft.com
 +.erohentai.net
 +.erolabs.cloud
 +.erolabs.com
-+.erolabs.fun
 +.erolabs.game
 +.erolabs.net
 +.erolabs.online
@@ -7785,6 +7825,7 @@ self.events.data.microsoft.com
 +.escalate.ac.uk
 +.escandinavia-arg.com
 +.escape.com.au
++.escapefromtarkov.com
 +.escapestudios.ac.uk
 +.escapestudios.co.uk
 +.escg.ac.uk
@@ -7859,7 +7900,9 @@ self.events.data.microsoft.com
 +.etwealth.com
 +.eu-consumer-empowerment.com
 +.eu-frankfurt.myqcloud.com
++.eu-frankfurt.tencentcos.com
 +.eu-moscow.myqcloud.com
++.eu-moscow.tencentcos.com
 +.eu-west-101.myhuaweicloud.com
 +.eubluecardvisa.com
 +.eued.ac.uk
@@ -7958,7 +8001,6 @@ self.events.data.microsoft.com
 +.f-boro-sfc.ac.uk
 +.f-dro1d.org
 +.f-droid.com
-+.f-droid.org
 +.f5pf.com
 +.f6988.com
 +.f95zone.to
@@ -8678,6 +8720,7 @@ self.events.data.microsoft.com
 +.flowfront.com
 +.flowfront.net
 +.flowtype.org
++.fluffychat.im
 +.fluidfxapp.com
 +.fluidpreview.com
 +.fluids.ac.uk
@@ -9500,12 +9543,12 @@ self.events.data.microsoft.com
 +.girlsxxx.net
 +.gisplanning.com
 +.git-scm.com
-+.gitbook.io
 +.github.blog
 +.github.com
 +.github.community
 +.github.dev
 +.github.io
++.github1s.com
 +.githubapp.com
 +.githubassets.com
 +.githubcopilot.com
@@ -9925,6 +9968,7 @@ self.events.data.microsoft.com
 +.googleplay.com
 +.googleplex.com
 +.googleplus.com
++.googlescholar.com
 +.googlescholar.comusa
 +.googlesile.com
 +.googlesource.com
@@ -10062,6 +10106,7 @@ self.events.data.microsoft.com
 +.grimsby.ac.uk
 +.grimsbytec.ac.uk
 +.grooby.com
++.groq.com
 +.groupfun.com
 +.groups.com
 +.grows.ac.uk
@@ -10159,8 +10204,9 @@ self.events.data.microsoft.com
 +.hairyolder.com
 +.hairypornsite.com
 +.haisetu.net
++.haitangbook.com
++.haitbook.com
 +.haitenjp.com
-+.haiwaikan.com
 +.halcyon.ac.uk
 +.halesowen.ac.uk
 +.half.com
@@ -10537,6 +10583,7 @@ self.events.data.microsoft.com
 +.hentaivn.de
 +.hentaivn.la
 +.hentaivn.net
++.hentaivox.com
 +.hentaivvz.com
 +.hentaiworld.eu
 +.hentaiworld.tv
@@ -11094,12 +11141,15 @@ self.events.data.microsoft.com
 +.ht3200.top
 +.hta.ac.uk
 +.htanime.epizy.com
++.htlvbooks.com
++.htnewbooks.com
 +.htp.ac.uk
 +.hts.ac.uk
 +.httpfacebook.com
 +.httpsfacebook.com
 +.httpwwwfacebook.com
 +.htvncdn.net
++.htwhbook.com
 +.htx.com
 +.htyj-bj.com
 +.htznr.li
@@ -11263,6 +11313,7 @@ self.events.data.microsoft.com
 +.ibeatsbydre.cc
 +.ibeatsbydre.com
 +.ibis.ac.uk
++.ibkr.com
 +.ibm.com
 +.ibm.eu
 +.ibm.net
@@ -11991,6 +12042,15 @@ self.events.data.microsoft.com
 +.intelvmwarecybersecurity.com
 +.interactcbt.ac.uk
 +.interactive-e.ac.uk
++.interactivebrokers.ca
++.interactivebrokers.co.in
++.interactivebrokers.co.jp
++.interactivebrokers.co.uk
++.interactivebrokers.com.au
++.interactivebrokers.com.hk
++.interactivebrokers.com.sg
++.interactivebrokers.eu
++.interactivebrokers.ie
 +.interactiveeducation.ac.uk
 +.interactivesex.xxx
 +.intercamcashpassport.com.mx
@@ -12359,11 +12419,11 @@ self.events.data.microsoft.com
 +.jav.si
 +.jav.wine
 +.jav01.cc
++.jav123.com
 +.jav168.cc
 +.jav19.com
 +.jav223.com
 +.jav24.com
-+.jav321.com
 +.jav4you.org
 +.jav789.com
 +.jav889.xyz
@@ -12385,7 +12445,6 @@ self.events.data.microsoft.com
 +.javcup.com
 +.javdatabase.com
 +.javday.tv
-+.javdb.com
 +.javdisk.com
 +.javdock.com
 +.javdoe.com
@@ -12700,7 +12759,6 @@ self.events.data.microsoft.com
 +.justincraig.ac.uk
 +.justindianporn.me
 +.justlesbianpussy.com
-+.justmysocks.net
 +.justmysocks2.net
 +.justmysocks4.net
 +.justnudepic.com
@@ -12794,6 +12852,7 @@ self.events.data.microsoft.com
 +.kecnuneaton.ac.uk
 +.kedst.ac.uk
 +.keele.ac.uk
++.keemail.me
 +.keepmovingwithmovefree.com
 +.keepyourcad.com
 +.keiba.net
@@ -12870,7 +12929,6 @@ self.events.data.microsoft.com
 +.kindle.in
 +.kindle.it
 +.kindle.jp
-+.kindle4rss.com
 +.kindleoasis.com
 +.kindleoasis.info
 +.kindleoasis.jp
@@ -12971,6 +13029,7 @@ self.events.data.microsoft.com
 +.kpht85.com
 +.kpinsurances.com
 +.kpptoto.info
++.kraken.onl
 +.krakenjs.com
 +.krhentai.com
 +.kristenbjorn.com
@@ -13010,7 +13069,7 @@ self.events.data.microsoft.com
 +.kyodonews.net
 +.kyurem.com
 +.l-0005.dc-msedge.net
-+.l-0005.l-msedge.net
++.l-msedge.net
 +.la-mama.ru
 +.laban.ac.uk
 +.labinacell.ac.uk
@@ -13203,7 +13262,6 @@ self.events.data.microsoft.com
 +.legalscholars.ac.uk
 +.legaltracker.com
 +.leggott.ac.uk
-+.legra.ph
 +.legsex.com
 +.leicester-poly.ac.uk
 +.leicester.ac.uk
@@ -13313,7 +13371,6 @@ self.events.data.microsoft.com
 +.lightbridge.com
 +.lighthouselearningtrust.ac.uk
 +.lightxxxtube.com
-+.lih.kg
 +.lihe.ac.uk
 +.lihksnap.com
 +.likeseiyu.com
@@ -13388,6 +13445,7 @@ self.events.data.microsoft.com
 +.liss-dtp.ac.uk
 +.listar.ac.uk
 +.listen-up.ac.uk
++.listenbrainz.org
 +.listentoyoutube.com
 +.listerpostgraduate.ac.uk
 +.listinganalytics.net
@@ -13458,9 +13516,11 @@ self.events.data.microsoft.com
 +.llwht88.xyz
 +.llysfasi.ac.uk
 +.lma.ac.uk
++.lmbooks.com
 +.lmbru.ac.uk
 +.lmc.ac.uk
 +.lmd.ac.uk
++.lmebooks.com
 +.lmi4he.ac.uk
 +.lmm167.shop
 +.lmmbtc.com
@@ -13556,6 +13616,8 @@ self.events.data.microsoft.com
 +.longleyparkcollege.ac.uk
 +.longleyparksfc.ac.uk
 +.longleyparksixthformcollege.ac.uk
++.longmabook.com
++.longmabookcn.com
 +.longman.ch
 +.longportapp.com
 +.longroad.ac.uk
@@ -13587,6 +13649,7 @@ self.events.data.microsoft.com
 +.lovedolltorso.com
 +.lovegirls.cam
 +.lovehomeporn.com
++.lovehtbooks.com
 +.lovejav.net
 +.loveloveskill.com
 +.lovemarca.com
@@ -13674,6 +13737,7 @@ self.events.data.microsoft.com
 +.lucbjtu.ac.uk
 +.lucid.ac.uk
 +.luckyissue.com
++.luckysrv.de
 +.ludlow-college.ac.uk
 +.lufton-college-fe.ac.uk
 +.luftoncollege.ac.uk
@@ -13706,6 +13770,7 @@ self.events.data.microsoft.com
 +.luw666cm.cc
 +.luxuretv.com
 +.luxuretv.fun
++.lvhtebook.com
 +.lvv.ac.uk
 +.lwms.ac.uk
 +.lww-cetl.ac.uk
@@ -13804,7 +13869,6 @@ self.events.data.microsoft.com
 +.madewithmaya.com
 +.madewithstudiotools.com
 +.madhomemadeporn.com
-+.madou.club
 +.madou.la
 +.madou.tv
 +.madouav.one
@@ -13844,6 +13908,7 @@ self.events.data.microsoft.com
 +.mainichi-athletepartners.jp
 +.mainichi.jp
 +.mainichibooks.com
++.maintracker.org
 +.mairbeats.com
 +.makaan.com
 +.makeanything.com
@@ -13933,6 +13998,7 @@ self.events.data.microsoft.com
 +.maoeraobjects.ac.uk
 +.maomi-shipin.com
 +.maomiav.one
++.maomiav.top
 +.map-software.com
 +.mapbox.com
 +.mapguide.com
@@ -13989,6 +14055,7 @@ self.events.data.microsoft.com
 +.masalladeloslimites.com
 +.masc25.ac.uk
 +.mashaalradio.com
++.mask.me
 +.maskedsingerfox.com
 +.massage-in-taipei.com
 +.massagerepublic.com
@@ -14326,11 +14393,13 @@ self.events.data.microsoft.com
 +.meshmixer.com
 +.meshmixerforum.com
 +.messengerdevelopers.com
++.messybrainz.org
 +.messytube.com
 +.met-nude.com
 +.meta.ai
 +.metabolomics.ac.uk
 +.metabora.io
++.metabrainz.org
 +.metacloud.com
 +.metacpan.org
 +.metadac.ac.uk
@@ -14445,6 +14514,7 @@ self.events.data.microsoft.com
 +.microsoftdiplomados.com
 +.microsofteca.com
 +.microsoftedge.com
++.microsoftedgeinsider.com
 +.microsoftgamestack.com
 +.microsofthouse.com
 +.microsofthouse.net
@@ -14505,7 +14575,6 @@ self.events.data.microsoft.com
 +.mihomeone.info
 +.miitomo.com
 +.miiverse.com
-+.mikanani.me
 +.mikrotik.com
 +.miktex.org
 +.mikuexpo.com
@@ -14816,8 +14885,10 @@ self.events.data.microsoft.com
 +.mirrorsedge2.com
 +.mirrorsedge2d.com
 +.misoc.ac.uk
-+.missav.com
++.missav.ai
 +.missav.uno
++.missav.vip
++.missav.ws
 +.missendenabbey.ac.uk
 +.misshotgirls.com
 +.misskey-square.net
@@ -15149,7 +15220,9 @@ self.events.data.microsoft.com
 +.msft.info
 +.msft.net
 +.msftauth.net
++.msftconnecttest.com
 +.msfteducation.ca
++.msftncsi.com
 +.msftnet.org
 +.msgamesresearch.com
 +.msinnovationchallenge.com
@@ -15220,6 +15293,7 @@ self.events.data.microsoft.com
 +.music-research.ac.uk
 +.musicandphilosophy.ac.uk
 +.musicbay.net
++.musicbrainz.org
 +.musiche.ac.uk
 +.musickit.net
 +.musiconline.ac.uk
@@ -15237,7 +15311,12 @@ self.events.data.microsoft.com
 +.mwell.ac.uk
 +.mwhentai.net
 +.mwrc.ac.uk
++.mxlogin.com
 +.mxmcdn.net
++.mxroute.com
++.mxroutedocs.com
++.mxroutehelp.com
++.mxrouting.net
 +.mxshm.site
 +.my-enema.com
 +.my-kualalumpur-1.myhuaweicloud.com
@@ -15273,6 +15352,7 @@ self.events.data.microsoft.com
 +.mybestbuyclaims.com
 +.mybmw.ca
 +.mybmw.com
++.mybookinlm.com
 +.myboylove.com
 +.mybridgestoneeducation.com
 +.mybukkakeporn.com
@@ -15335,6 +15415,9 @@ self.events.data.microsoft.com
 +.myhentaigallery.com
 +.myhomemadesex.com
 +.myhpsupport.com
++.myhtebook.com
++.myhtebooks.com
++.myhtlmebook.com
 +.myhulu.com
 +.myicloud.net
 +.myipod.net
@@ -15409,7 +15492,6 @@ self.events.data.microsoft.com
 +.myvodafone.com.ws
 +.mywaytopay.info
 +.mywaytopay.net
-+.mywife.cc
 +.mywifecuckold.com
 +.mywnsc.ac.uk
 +.myxvids.com
@@ -15424,10 +15506,13 @@ self.events.data.microsoft.com
 +.n3ro.wtf
 +.n8agrifood.ac.uk
 +.na-ashburn.myqcloud.com
++.na-ashburn.tencentcos.com
 +.na-att-idns.net
 +.na-me.ac.uk
 +.na-siliconvalley.myqcloud.com
++.na-siliconvalley.tencentcos.com
 +.na-toronto.myqcloud.com
++.na-toronto.tencentcos.com
 +.naaktevrouwenporno.com
 +.nab.com.au
 +.nabtravellercard.com.au
@@ -15544,7 +15629,6 @@ self.events.data.microsoft.com
 +.nbu.ac.uk
 +.nbys.tv
 +.nbys1.tv
-+.nbyy.tv
 +.nc3rs.ac.uk
 +.nc4m.ac.uk
 +.nca.ac.uk
@@ -15705,6 +15789,8 @@ self.events.data.microsoft.com
 +.netarabic.com
 +.netcup-news.de
 +.netcup-sonderangebote.de
++.netcup-wiki.de
++.netcup.cafe
 +.netcup.com
 +.netcup.de
 +.netcup.eu
@@ -15794,6 +15880,7 @@ self.events.data.microsoft.com
 +.newhamcfe.ac.uk
 +.newhampshirebmw.com
 +.newhentai.org
++.newhtbook.com
 +.newi.ac.uk
 +.newisiknowledge.com
 +.newlineporn.com
@@ -15811,7 +15898,6 @@ self.events.data.microsoft.com
 +.newsadds.com.au
 +.newsamerica.com
 +.newsapi.com.au
-+.newsblur.com
 +.newscareers.co.uk
 +.newscdn.com.au
 +.newschristmasshopping.com
@@ -15849,6 +15935,8 @@ self.events.data.microsoft.com
 +.nexitally.com
 +.nexitallysafe.com
 +.nexitcore.com
++.nexo.com
++.nexo.io
 +.nexon.co.jp
 +.nexon.io
 +.nexoncdn.co.kr
@@ -16655,7 +16743,6 @@ self.events.data.microsoft.com
 +.olds.ac.uk
 +.oldvic.ac.uk
 +.olehd.com
-+.olelive.com
 +.olemovienews.com
 +.olevod.io
 +.olevod.tv
@@ -17046,7 +17133,6 @@ self.events.data.microsoft.com
 +.pathways.ac.uk
 +.pathwaystohe.ac.uk
 +.patreoncommunity.com
-+.patreonusercontent.com
 +.patsy.ac.uk
 +.paul-mellon-centre.ac.uk
 +.paulmelloncentre.ac.uk
@@ -17423,7 +17509,6 @@ self.events.data.microsoft.com
 +.pieceofplastic.com
 +.pier18.ac.uk
 +.pifpafarabia.com
-+.pigav.com
 +.piirus.ac.uk
 +.pikabu.monster
 +.pikpak.me
@@ -17503,9 +17588,12 @@ self.events.data.microsoft.com
 +.pixfs.net
 +.pixhost.to
 +.pixinsight.com.tw
++.pixiv-recommend.net
 +.pixiv.co.jp
++.pixiv.help
 +.pixiv.me
 +.pixiv.org
++.pixivision.net
 +.pixlr-o-matic.com
 +.pixlromatic.com
 +.pixnet.cc
@@ -18020,7 +18108,6 @@ self.events.data.microsoft.com
 +.postini.com
 +.posty.kr
 +.postyourgirls.ws
-+.potatso.com
 +.potenza.jp
 +.potteries.ac.uk
 +.potterieseducationaltrust.ac.uk
@@ -18059,7 +18146,6 @@ self.events.data.microsoft.com
 +.ppp91.cc
 +.pppds.com
 +.ppre.ac.uk
-+.ppy.sh
 +.practicalbusinessskills.com
 +.practicalmoneyskills.ca
 +.practicalmoneyskills.jp
@@ -18186,6 +18272,9 @@ self.events.data.microsoft.com
 +.protonmail.ch
 +.protonmail.com
 +.protonstatus.com
++.protontech.ch
++.protonvpn.ch
++.protonweb.com
 +.proudman-oceanographic-lab.ac.uk
 +.provide.ac.uk
 +.prowe.ac.uk
@@ -18416,7 +18505,6 @@ self.events.data.microsoft.com
 +.qzav.tv
 +.r-project.org
 +.r10s.com
-+.r10s.jp
 +.r18.clickme.net
 +.r18av.com
 +.r18lu-avi.shop
@@ -18449,7 +18537,6 @@ self.events.data.microsoft.com
 +.rajwaphq.com
 +.rakuten-static.com
 +.rakuten.ca
-+.rakuten.co.jp
 +.rakuten.com
 +.rakuten.com.tw
 +.rakuten.ne.jp
@@ -18568,7 +18655,6 @@ self.events.data.microsoft.com
 +.rea.global
 +.rea.io
 +.rea.tech
-+.reabble.com
 +.reach.ac.uk
 +.reachingwider.ac.uk
 +.reachporn.com
@@ -18679,6 +18765,7 @@ self.events.data.microsoft.com
 +.redkix.com
 +.redlightcenter.com
 +.redmatureporn.com
++.redotpay.com
 +.redporn.xxx
 +.redporno.cz
 +.redpornpictures.com
@@ -19028,6 +19115,12 @@ self.events.data.microsoft.com
 +.rutc.ac.uk
 +.rutherford.ac.uk
 +.rutlandcollege.ac.uk
++.rutracker.cc
++.rutracker.cr
++.rutracker.me
++.rutracker.nl
++.rutracker.org
++.rutrecker.net
 +.ruvideos.net
 +.rvc.ac.uk
 +.rwcmd.ac.uk
@@ -19050,6 +19143,7 @@ self.events.data.microsoft.com
 +.s81c.com
 +.s8ds5gfm.xyz
 +.sa-saopaulo.myqcloud.com
++.sa-saopaulo.tencentcos.com
 +.sa.com
 +.saasexch.com
 +.saasexch.io
@@ -19130,6 +19224,7 @@ self.events.data.microsoft.com
 +.sandwellcollege.ac.uk
 +.sanger.ac.uk
 +.sanjesh.org
++.sankakuapi.com
 +.sankei-ad-info.com
 +.sankei-ad.net
 +.sankei-books.co.jp
@@ -19409,8 +19504,6 @@ self.events.data.microsoft.com
 +.sego8.cc
 +.sego8.co
 +.sego8.xyz
-+.sehuatang.net
-+.sehuatang.org
 +.seintiaucymru.ac.uk
 +.seiroganmania.com
 +.seiron-sankei.com
@@ -19459,6 +19552,7 @@ self.events.data.microsoft.com
 +.serlucap.lol
 +.serlutv258.xyz
 +.servebom.com
++.servercontrolpanel.de
 +.serverfault.com
 +.serverlesslibrary.net
 +.services-apple.net
@@ -20371,6 +20465,7 @@ self.events.data.microsoft.com
 +.spizoo.com
 +.splatoon2tournament.com
 +.splint-cetl.ac.uk
++.spo-msedge.net
 +.spokenword.ac.uk
 +.sponichi.co.jp
 +.spore.com
@@ -20382,6 +20477,7 @@ self.events.data.microsoft.com
 +.spotify-everywhere.com
 +.spotify.com
 +.spotify.design
++.spotify.link
 +.spotifycdn.com
 +.spotifycdn.net
 +.spotifycharts.com
@@ -20472,8 +20568,13 @@ self.events.data.microsoft.com
 +.stackoverflow.blog
 +.stackoverflow.co
 +.stackoverflow.email
++.stackoverflow.help
++.stackoverflow.net
 +.stackoverflowbusiness.com
 +.stackoverflowcareers.com
++.stackoverflowjobs.com
++.stackoverflowsolutions.com
++.stackoverflowteams.com
 +.stackpath.com
 +.stackpath.dev
 +.stacksnippets.net
@@ -20835,6 +20936,7 @@ self.events.data.microsoft.com
 +.supermariogalaxy.com
 +.superpapermario.com
 +.supersexeamateur.com
++.supersrv.de
 +.superstation.com.tw
 +.superstem.ac.uk
 +.supertop.co
@@ -21003,7 +21105,6 @@ self.events.data.microsoft.com
 +.synologyupdate.com
 +.synsym.ac.uk
 +.syntheticbiology.ac.uk
-+.syosetu.com
 +.sysinternals.com
 +.sysmic.ac.uk
 +.systemicrisk.ac.uk
@@ -21012,6 +21113,7 @@ self.events.data.microsoft.com
 +.szcheapmonsterheadphones.com
 +.szexvideo.top
 +.szwinnertechnology.com
++.t-msedge.net
 +.t-mus.ac.uk
 +.t-splines.com
 +.tablet-academy.ac.uk
@@ -21066,6 +21168,7 @@ self.events.data.microsoft.com
 +.tarf-lcv.ac.uk
 +.targetedgrad.ac.uk
 +.targetimg1.com
++.tarkov.com
 +.tarn.ac.uk
 +.tasc.ac.uk
 +.tasexy.com
@@ -21210,6 +21313,7 @@ self.events.data.microsoft.com
 +.test-ipv6.belwue.net
 +.test-ipv6.carnet.hr
 +.test-ipv6.cl
++.test-ipv6.com
 +.test-ipv6.cs.umd.edu
 +.test-ipv6.csclub.uwaterloo.ca
 +.test-ipv6.cz
@@ -21409,6 +21513,7 @@ self.events.data.microsoft.com
 +.thethothub.com
 +.thetimes.co.uk
 +.thetimes.ie
++.thetrackernetwork.com
 +.thetranny.com
 +.thetread.com
 +.thetype.com
@@ -21495,6 +21600,8 @@ self.events.data.microsoft.com
 +.tik-tokapi.com
 +.tiktokcdn-eu.com
 +.tiktokcdn.com
++.tiktokeu-cdn.com
++.tiktokrow-cdn.com
 +.tiktokv.eu
 +.tiktokw.eu
 +.tiktokw.us
@@ -21514,7 +21621,6 @@ self.events.data.microsoft.com
 +.tinkerentertainment.com
 +.tinkerplay.net
 +.tiny4k.com
-+.tinyurl.com
 +.tiohentai.com
 +.tipple.ac.uk
 +.tire-cadcam.com
@@ -21651,6 +21757,8 @@ self.events.data.microsoft.com
 +.tr.com
 +.trac.ac.uk
 +.tracingnetworks.ac.uk
++.tracker.gg
++.tracker.network
 +.tracking-location.com
 +.tradevip1.com
 +.traffcoll.ac.uk
@@ -21806,6 +21914,7 @@ self.events.data.microsoft.com
 +.tteshop.com
 +.ttetraining.ac.uk
 +.ttlivecdn.com
++.ttoverseaus.net
 +.ttrb.ac.uk
 +.ttvnw.net
 +.ttwstatic.com
@@ -21850,7 +21959,9 @@ self.events.data.microsoft.com
 +.tubev.sex
 +.tubevintageporn.com
 +.tubexclips.com
++.tubi.io
 +.tubinge.com
++.tubitv.com
 +.tubous.com
 +.tubsexer.com
 +.tubxporn.com
@@ -21872,7 +21983,10 @@ self.events.data.microsoft.com
 +.turkeyblocks.org
 +.turn.livekit.cloud
 +.tushy.com
++.tuta.com
 +.tuta.io
++.tutamail.com
++.tutanota.de
 +.tvappstore.net
 +.tvb.com.au
 +.tvbanywhere.com
@@ -21888,6 +22002,7 @@ self.events.data.microsoft.com
 +.tvof.ac.uk
 +.tvpromise.com
 +.tvu.ac.uk
++.tw.iqiyi.com
 +.tw.weibo.com
 +.tw985.com
 +.twavking.com
@@ -22245,7 +22360,6 @@ self.events.data.microsoft.com
 +.unrealtournament.com
 +.unstyle.us
 +.unusualporn.net
-+.unwire.hk
 +.uo.com
 +.uod.ac.uk
 +.uoherald.com
@@ -22279,6 +22393,7 @@ self.events.data.microsoft.com
 +.urbanlivinglab.ac.uk
 +.urbanobservatory.ac.uk
 +.urduvoa.com
++.urhtbooks.com
 +.uriminzokkiri.com
 +.url.tw
 +.urlgalleries.net
@@ -22869,24 +22984,35 @@ self.events.data.microsoft.com
 +.vixen.com
 +.vixvids.to
 +.viznet.ac.uk
++.vk-apps.com
++.vk-apps.ru
 +.vk-cdn.me
 +.vk-cdn.net
 +.vk-portal.net
 +.vk.cc
++.vk.company
 +.vk.design
 +.vk.link
 +.vk.me
 +.vk.ru
++.vk.team
 +.vkcache.com
 +.vkgo.app
 +.vklive.app
 +.vkmessenger.app
 +.vkmessenger.com
 +.vkontakte.ru
++.vkuser.net
 +.vkuseraudio.com
++.vkuseraudio.net
++.vkuseraudio.ru
++.vkusercdn.ru
 +.vkuserlive.net
++.vkuserphoto.ru
 +.vkuservideo.com
 +.vkuservideo.net
++.vkuservideo.ru
++.vkvideo.ru
 +.vl4x.net
 +.vmglobal.net
 +.vmmark.com
@@ -23185,7 +23311,6 @@ self.events.data.microsoft.com
 +.waes.ac.uk
 +.waf.ac.uk
 +.waisongcha.com
-+.waittingfor001.weebly.com
 +.wakcoll.ac.uk
 +.wakefield.ac.uk
 +.wal-mart.com
@@ -23587,7 +23712,6 @@ self.events.data.microsoft.com
 +.wmcloud.org
 +.wmcollege.ac.uk
 +.wmcu.ac.uk
-+.wmfusercontent.org
 +.wmhea.ac.uk
 +.wmin.ac.uk
 +.wmsf.ac.uk
@@ -23770,7 +23894,6 @@ self.events.data.microsoft.com
 +.x1337x.ws
 +.x18r.co
 +.x18r.com
-+.x3guide.com
 +.x3vid.com
 +.x6av.com
 +.x99av.com
@@ -23825,6 +23948,7 @@ self.events.data.microsoft.com
 +.xda-cdn.com
 +.xdaddy.in
 +.xdaforums.com
++.xdaimages.com
 +.xdh999.one
 +.xdir.vip
 +.xdporner.com
@@ -23857,6 +23981,7 @@ self.events.data.microsoft.com
 +.xhamsterlive.com
 +.xhcdn.com
 +.xhot.pro
++.xhpjc6-cdn-settings.appsflyersdk.com
 +.xhub.tv
 +.xiangrikui-app.com
 +.xianir.xyz
@@ -23879,6 +24004,7 @@ self.events.data.microsoft.com
 +.xinmeitulu.com
 +.xinsheng.net
 +.xiti.com
++.xj87ti.com
 +.xjavporn.com
 +.xkeezmovies.com
 +.xknoop.com
@@ -24521,6 +24647,8 @@ self.events.data.microsoft.com
 +.youpornxvideos.net
 +.your-objectstorage.com
 +.your-server.de
++.your-storagebox.de
++.your-storageshare.de
 +.youramateurporn.com
 +.yourassbig.com
 +.yourbrain.com
@@ -24548,6 +24676,7 @@ self.events.data.microsoft.com
 +.yourtv.com.au
 +.yourupskirt.com
 +.yourvoyeurvideos.com
++.yourvserver.net
 +.yourwifemymeat.com
 +.yourxxxvideos.pro
 +.youshare.ac.uk
@@ -24960,6 +25089,7 @@ self.events.data.microsoft.com
 +.17t17p.com
 +.18board.com
 +.18board.info
++.18comic.org
 +.18onlygirls.com
 +.18p2p.com
 +.18virginsex.com
@@ -25020,6 +25150,8 @@ self.events.data.microsoft.com
 +.4rbtv.com
 +.4shared.com
 +.4sqi.net
++.500px.com
++.500px.org
 +.50webs.com
 +.51.ca
 +.51jav.org
@@ -25030,6 +25162,8 @@ self.events.data.microsoft.com
 +.5i01.com
 +.5isotoi5.org
 +.5maodang.com
++.611study.com
++.611study.icu
 +.63i.com
 +.64museum.org
 +.64tianwang.com
@@ -25037,6 +25171,7 @@ self.events.data.microsoft.com
 +.66.ca
 +.666kb.com
 +.6do.news
++.6do.world
 +.6park.com
 +.6parkbbs.com
 +.6parker.com
@@ -25087,6 +25222,7 @@ self.events.data.microsoft.com
 +.accountkit.com
 +.aceros-de-hispania.com
 +.acevpn.com
++.acg.rip
 +.acg18.me
 +.acgbox.org
 +.acgkj.com
@@ -25128,10 +25264,12 @@ self.events.data.microsoft.com
 +.ahcdn.com
 +.ai-kan.net
 +.ai-wen.net
++.aiosearch.com
 +.aiph.net
 +.airasia.com
 +.airconsole.com
 +.aircrack-ng.org
++.airitilibrary.com
 +.airtable.com
 +.airvpn.org
 +.aisex.com
@@ -25145,6 +25283,7 @@ self.events.data.microsoft.com
 +.akamaistream.net
 +.akiba-online.com
 +.akiba-web.com
++.akinator.com
 +.akow.org
 +.al-islam.com
 +.al-qimmah.net
@@ -25214,6 +25353,7 @@ self.events.data.microsoft.com
 +.andfaraway.net
 +.android-x86.org
 +.android.com
++.androidapksfree.com
 +.androidify.com
 +.androidplus.co
 +.androidtv.com
@@ -25224,6 +25364,8 @@ self.events.data.microsoft.com
 +.angularjs.org
 +.animecrazy.net
 +.aniscartujo.com
++.annas-archive.org
++.annas-archive.se
 +.annatam.com
 +.anobii.com
 +.anonfiles.com
@@ -25238,6 +25380,7 @@ self.events.data.microsoft.com
 +.anti1984.com
 +.antichristendom.com
 +.antiwave.net
++.antpool.com
 +.anws.gov.tw
 +.anysex.com
 +.ao3.org
@@ -25271,6 +25414,7 @@ self.events.data.microsoft.com
 +.apkpure.net
 +.aplusvpn.com
 +.app-measurement.net
++.appadvice.com
 +.appdownloader.net
 +.apple-dns.net
 +.applecensorship.com
@@ -25287,6 +25431,7 @@ self.events.data.microsoft.com
 +.archive.org
 +.archive.ph
 +.archive.today
++.archive.vn
 +.archiveofourown.com
 +.archiveofourown.org
 +.archives.gov
@@ -25317,6 +25462,7 @@ self.events.data.microsoft.com
 +.asiaone.com
 +.asiatgp.com
 +.asiatoday.us
++.ask.com
 +.askstudent.com
 +.askynz.net
 +.aspi.org.au
@@ -25340,6 +25486,7 @@ self.events.data.microsoft.com
 +.av-e-body.com
 +.av.com
 +.av.movie
++.av01.tv
 +.avaaz.org
 +.avbody.tv
 +.avcity.tv
@@ -25367,6 +25514,7 @@ self.events.data.microsoft.com
 +.azureedge.net
 +.azurewebsites.net
 +.b-ok.cc
++.b.hatena.ne.jp
 +.b0ne.com
 +.baby-kingdom.com
 +.babylonbee.com
@@ -25394,6 +25542,7 @@ self.events.data.microsoft.com
 +.bangchen.net
 +.bangdream.space
 +.bangkokpost.com
++.bangumi.moe
 +.bangyoulater.com
 +.bankmobilevibe.com
 +.bannednews.org
@@ -25419,6 +25568,7 @@ self.events.data.microsoft.com
 +.bbkz.com
 +.bbnradio.org
 +.bbs-tw.com
++.bbs.nyinfor.com
 +.bbs.sina.com
 +.bbsdigest.com
 +.bbsfeed.com
@@ -25436,6 +25586,8 @@ self.events.data.microsoft.com
 +.beaconevents.com
 +.bebo.com
 +.beeg.com
++.beepool.com
++.beepool.org
 +.beevpn.com
 +.behance.net
 +.behindkink.com
@@ -25453,10 +25605,12 @@ self.events.data.microsoft.com
 +.bestgore.com
 +.bestvpn.com
 +.bestvpnanalysis.com
++.bestvpnforchina.net
 +.bestvpnserver.com
 +.bestvpnservice.com
 +.bestvpnusa.com
 +.bet365.com
++.betaclouds.net
 +.betfair.com
 +.betternet.co
 +.bettervpn.com
@@ -25466,6 +25620,7 @@ self.events.data.microsoft.com
 +.beyondfirewall.com
 +.bfnn.org
 +.bfsh.hk
++.bgme.me
 +.bgvpn.com
 +.bianlei.com
 +.biantailajiao.com
@@ -25485,6 +25640,7 @@ self.events.data.microsoft.com
 +.biliworld.com
 +.billypan.com
 +.binance.com
++.binancezh.cc
 +.bing.com
 +.bing.net
 +.bingapis.com
@@ -25516,6 +25672,7 @@ self.events.data.microsoft.com
 +.bjs.org
 +.bjzc.org
 +.bl-doujinsouko.com
++.blacked.com
 +.blacklogic.com
 +.blackvpn.com
 +.blewpass.com
@@ -25528,9 +25685,11 @@ self.events.data.microsoft.com
 +.blockcn.com
 +.blockedbyhk.com
 +.blockless.com
++.blocktempo.com
 +.blog.com
 +.blog.de
 +.blog.jp
++.blog.reimu.net
 +.blogblog.com
 +.blogcdn.com
 +.blogcity.me
@@ -25549,6 +25708,7 @@ self.events.data.microsoft.com
 +.bloomfortune.com
 +.blubrry.com
 +.blueangellive.com
++.bmdru.com
 +.bmfinn.com
 +.bnbstatic.com
 +.bnews.co
@@ -25568,7 +25728,9 @@ self.events.data.microsoft.com
 +.bookepub.com
 +.books.com.tw
 +.booktopia.com.au
++.bookwalker.com.tw
 +.boomssr.com
++.bootstrapcdn.com
 +.borgenmagazine.com
 +.bot.nu
 +.botanwang.com
@@ -25610,16 +25772,20 @@ self.events.data.microsoft.com
 +.brucewang.net
 +.brutaltgp.com
 +.bsky.app
++.bsky.network
 +.bsky.social
 +.bt2mag.com
 +.bt95.com
 +.btaia.com
++.btbit.net
 +.btbtav.com
++.btc.com
 +.btc98.com
 +.btcbank.bank
 +.btctrade.im
 +.btdig.com
 +.btdigg.org
++.btguard.com
 +.btku.me
 +.btku.org
 +.btlibrary.me
@@ -25661,8 +25827,10 @@ self.events.data.microsoft.com
 +.c-est-simple.com
 +.c-span.org
 +.c-spanvideo.org
++.c.mi.com
 +.c100tibet.org
 +.c2cx.com
++.c3pool.com
 +.cableav.tv
 +.cablegatesearch.net
 +.cachefly.net
@@ -25711,6 +25879,7 @@ self.events.data.microsoft.com
 +.casinoking.com
 +.casinoriva.com
 +.castbox.fm
++.catbox.moe
 +.catch22.net
 +.catchgod.com
 +.catfightpayperview.xxx
@@ -25719,6 +25888,7 @@ self.events.data.microsoft.com
 +.cathvoice.org.tw
 +.cato.org
 +.cattt.com
++.caus.com
 +.cbc.ca
 +.cbsnews.com
 +.cbtc.org.hk
@@ -25727,6 +25897,7 @@ self.events.data.microsoft.com
 +.cccat.co
 +.cccat.io
 +.ccdtr.org
++.ccfd.org.tw
 +.cchere.com
 +.ccim.org
 +.cclife.ca
@@ -25747,6 +25918,7 @@ self.events.data.microsoft.com
 +.cdjp.org
 +.cdn.angruo.com
 +.cdn.segment.com
++.cdn.statically.io
 +.cdnews.com.tw
 +.cdnst.net
 +.cdp1989.org
@@ -25783,7 +25955,9 @@ self.events.data.microsoft.com
 +.channelnewsasia.com
 +.chanworld.org
 +.chaoex.com
++.chaos.social
 +.chapm25.com
++.character.ai
 +.chatnook.com
 +.chaturbate.com
 +.checkgfw.com
@@ -25812,6 +25986,7 @@ self.events.data.microsoft.com
 +.chinachannel.hk
 +.chinacitynews.be
 +.chinacomments.org
++.chinademocrats.org
 +.chinadialogue.net
 +.chinadigitaltimes.net
 +.chinaelections.org
@@ -25884,6 +26059,7 @@ self.events.data.microsoft.com
 +.chubun.com
 +.churchinhongkong.org
 +.chushigangdrug.ch
++.ci-en.jp
 +.ciciai.com
 +.cienen.com
 +.cineastentreff.de
@@ -25920,6 +26096,7 @@ self.events.data.microsoft.com
 +.clementine-player.org
 +.clien.net
 +.clinica-tibet.ru
++.clipconverter.cc
 +.clipfish.de
 +.cloakpoint.com
 +.cloud.cupronickel.goog
@@ -25944,6 +26121,7 @@ self.events.data.microsoft.com
 +.cmule.org
 +.cmx.im
 +.cn-proxy.com
++.cn.etherscan.com
 +.cn6.eu
 +.cna.com.tw
 +.cnabc.com
@@ -25966,7 +26144,9 @@ self.events.data.microsoft.com
 +.codeplex.com
 +.codeshare.io
 +.codeskulptor.org
++.cofacts.tw
 +.coin2co.in
++.coinbase.com
 +.coinbene.com
 +.coinegg.com
 +.coinex.com
@@ -25977,6 +26157,7 @@ self.events.data.microsoft.com
 +.cointiger.com
 +.cointobe.com
 +.coinut.com
++.colacloud.net
 +.collateralmurder.com
 +.collateralmurder.org
 +.com.uk
@@ -26019,6 +26200,7 @@ self.events.data.microsoft.com
 +.cpj.org
 +.cq99.us
 +.crackle.com
++.crazypool.org
 +.crazys.cc
 +.crazyshit.com
 +.crbug.com
@@ -26034,10 +26216,12 @@ self.events.data.microsoft.com
 +.crossfire.co.kr
 +.crossthewall.net
 +.crossvpn.net
++.crosswall.org
 +.croxyproxy.com
 +.crrev.com
 +.crucial.com
 +.crunchyroll.com
++.cruxpool.com
 +.cryptographyengineering.com
 +.csdparty.com
 +.csis.org
@@ -26072,6 +26256,7 @@ self.events.data.microsoft.com
 +.cytode.us
 +.cz.cc
 +.d-fukyu.com
++.d.cash
 +.d.pr
 +.d0z.net
 +.d100.net
@@ -26127,7 +26312,6 @@ self.events.data.microsoft.com
 +.dashlane.com
 +.dastrassi.org
 +.data-vocabulary.org
-+.data.flurry.com
 +.data.gov.tw
 +.daum.net
 +.david-kilgour.com
@@ -26157,6 +26341,7 @@ self.events.data.microsoft.com
 +.deja.com
 +.delcamp.net
 +.delicious.com
++.demo.unlock-music.dev
 +.democrats.org
 +.demosisto.hk
 +.depositphotos.com
@@ -26205,6 +26390,7 @@ self.events.data.microsoft.com
 +.disqus.com
 +.disquscdn.com
 +.dit-inc.us
++.diyin.org
 +.dizhidizhi.com
 +.dizhuzhishang.com
 +.djangosnippets.org
@@ -26215,6 +26401,7 @@ self.events.data.microsoft.com
 +.dlsite.com
 +.dlsite.jp
 +.dm530.net
++.dma.mil
 +.dmc.nico
 +.dmcdn.net
 +.dmhy.org
@@ -26251,20 +26438,25 @@ self.events.data.microsoft.com
 +.donmai.us
 +.dontfilter.us
 +.dontmovetochina.com
++.doosho.com
++.doourbest.org
 +.dorjeshugden.com
 +.dotplane.com
 +.dotsub.com
 +.dotvpn.com
 +.doub.io
 +.doubibackup.com
++.doubiyunbackup.com
 +.doublethinklab.org
 +.doubmirror.cf
++.douchi.space
 +.dougscripts.com
 +.douhokanko.net
 +.doujincafe.com
 +.dowei.org
 +.dowjones.com
 +.dphk.org
++.dpool.top
 +.dpp.org.tw
 +.dpr.info
 +.dragonex.io
@@ -26341,6 +26533,7 @@ self.events.data.microsoft.com
 +.earthcam.com
 +.earthvpn.com
 +.east-plus.net
++.eastasiaforum.org
 +.eastern-ark.com
 +.easternlightning.org
 +.eastturkestan.com
@@ -26384,6 +26577,7 @@ self.events.data.microsoft.com
 +.eksisozluk.com
 +.elastic.co
 +.elastic.com
++.elconfidencial.com
 +.electionsmeter.com
 +.elgoog.im
 +.ellawine.org
@@ -26419,6 +26613,7 @@ self.events.data.microsoft.com
 +.epochtimes-romania.com
 +.epochtimes.co.il
 +.epochtimes.co.kr
++.epochtimes.com.tw
 +.epochtimes.cz
 +.epochtimes.de
 +.epochtimes.fr
@@ -26473,6 +26668,7 @@ self.events.data.microsoft.com
 +.evernote.com
 +.evozi.com
 +.evschool.net
++.exam.gov.tw
 +.exblog.co.jp
 +.exblog.jp
 +.exchristian.hk
@@ -26491,11 +26687,13 @@ self.events.data.microsoft.com
 +.extmatrix.com
 +.extremetube.com
 +.exx.com
++.ey.gov.tw
 +.eyevio.jp
 +.eyny.com
 +.ezpc.tk
 +.ezpeer.com
 +.ezua.com
++.f-droid.org
 +.f2pool.com
 +.f8.com
 +.fa.gov.tw
@@ -26563,6 +26761,7 @@ self.events.data.microsoft.com
 +.fartit.com
 +.farwestchina.com
 +.fastestvpn.com
++.fastgpt.run
 +.fastly.net
 +.fastmail.com
 +.fastpic.ru
@@ -26593,6 +26792,7 @@ self.events.data.microsoft.com
 +.feedburner.com
 +.feeder.co
 +.feedly.com
++.feedly.comfastgpt.run
 +.feedsportal.com
 +.feedx.net
 +.feelssh.com
@@ -26628,6 +26828,7 @@ self.events.data.microsoft.com
 +.firearmsworld.net
 +.firebaseio.com
 +.firefox.com
++.fireofliberty.info
 +.fireofliberty.org
 +.firetweet.io
 +.firstfivefollowers.com
@@ -26640,6 +26841,7 @@ self.events.data.microsoft.com
 +.fleshbot.com
 +.fleursdeslettres.com
 +.flexibits.com
++.flexpool.io
 +.flgg.us
 +.flgjustice.org
 +.flickr.com
@@ -26651,6 +26853,8 @@ self.events.data.microsoft.com
 +.flitto.com
 +.flnet.org
 +.flog.tw
++.flowhongkong.net
++.flypool.org
 +.flyvpn.com
 +.flyzy2005.com
 +.flzbcdn.xyz
@@ -26670,6 +26874,7 @@ self.events.data.microsoft.com
 +.forum4hk.com
 +.forums-free.com
 +.fotile.me
++.fountmedia.io
 +.fourthinternational.org
 +.foxbusiness.com
 +.foxdie.us
@@ -26682,6 +26887,7 @@ self.events.data.microsoft.com
 +.fpmtmexico.org
 +.fqok.org
 +.fqrouter.com
++.frank2019.me
 +.franklc.com
 +.freakshare.com
 +.free-gate.org
@@ -26689,6 +26895,8 @@ self.events.data.microsoft.com
 +.free-proxy.cz
 +.free-ss.site
 +.free-ssh.com
++.free.bg
++.free.com.tw
 +.free.fr
 +.free4u.com.ar
 +.freealim.com
@@ -26725,6 +26933,7 @@ self.events.data.microsoft.com
 +.freeopenvpn.com
 +.freeoz.org
 +.freerk.com
++.freess.org
 +.freessh.us
 +.freetcp.com
 +.freetibet.net
@@ -26748,6 +26957,7 @@ self.events.data.microsoft.com
 +.friendfeed.com
 +.friends-of-tibet.org
 +.friendsoftibet.org
++.fril.jp
 +.fring.com
 +.fringenetwork.com
 +.from-pr.com
@@ -26756,6 +26966,7 @@ self.events.data.microsoft.com
 +.frommel.net
 +.frontlinedefenders.org
 +.frootvpn.com
++.froth.zone
 +.fscked.org
 +.fsurf.com
 +.ftchinese.com
@@ -26771,6 +26982,7 @@ self.events.data.microsoft.com
 +.fuckgfw233.org
 +.fulione.com
 +.fullerconsideration.com
++.fullservicegame.com
 +.fulue.com
 +.funf.tw
 +.funkyimg.com
@@ -26891,6 +27103,7 @@ self.events.data.microsoft.com
 +.gfw.org.ua
 +.gfw.press
 +.gfw.report
++.gfwatch.org
 +.gfwlist.end
 +.gfwlist.start
 +.gfx.ms
@@ -26909,12 +27122,14 @@ self.events.data.microsoft.com
 +.girlbanker.com
 +.git.io
 +.gitbook.com
++.gitbook.io
 +.gitbooks.io
 +.githack.com
 +.gitlab.com
 +.gitlab.io
 +.gizlen.net
 +.gjczz.com
++.glarity.app
 +.glass8.eu
 +.globaljihad.net
 +.globalmediaoutreach.com
@@ -26942,9 +27157,11 @@ self.events.data.microsoft.com
 +.gnci.org.hk
 +.gnews.org
 +.go-pki.com
++.go-to-zlibrary.se
 +.go.com
 +.go.jp
 +.go141.com
++.go5.dev
 +.goagent.biz
 +.goagentplus.com
 +.gobet.cc
@@ -26979,6 +27196,7 @@ self.events.data.microsoft.com
 +.good.news
 +.gooday.xyz
 +.goodhope.school
++.goodnewsnetwork.org
 +.goodreaders.com
 +.goodreads.com
 +.goodtv.com.tw
@@ -27007,6 +27225,7 @@ self.events.data.microsoft.com
 +.graphis.ne.jp
 +.graphql.org
 +.gravatar.com
++.greasyfork.org
 +.great-firewall.com
 +.great-roc.org
 +.greatfire.org
@@ -27024,6 +27243,7 @@ self.events.data.microsoft.com
 +.greenvpn.net
 +.greenvpn.org
 +.grindr.com
++.grok.com
 +.grotty-monday.com
 +.ground.news
 +.gs-discuss.com
@@ -27077,7 +27297,9 @@ self.events.data.microsoft.com
 +.hackthatphone.net
 +.hahlo.com
 +.haijiao.com
++.haiwaikan.com
 +.hakkatv.org.tw
++.halktv.com.tr
 +.handcraftedsoftware.org
 +.hanime.tv
 +.hanminzu.org
@@ -27165,6 +27387,7 @@ self.events.data.microsoft.com
 +.hitbtc.com
 +.hitomi.la
 +.hitun.io
++.hiveon.net
 +.hiwifi.com
 +.hizb-ut-tahrir.info
 +.hizb-ut-tahrir.org
@@ -27232,8 +27455,10 @@ self.events.data.microsoft.com
 +.hojemacau.com.mo
 +.hola.com
 +.hola.org
++.hole.thu.monster
 +.holymountaincn.com
 +.holyspiritspeaks.org
++.home.saxo
 +.home.sina.com
 +.homedepot.com
 +.homeperversion.com
@@ -27265,6 +27490,7 @@ self.events.data.microsoft.com
 +.hougaige.com
 +.howtoforge.com
 +.hoxx.com
++.hoy.tv
 +.hoyolab.com
 +.hpa.gov.tw
 +.hpjav.com
@@ -27326,6 +27552,7 @@ self.events.data.microsoft.com
 +.huobi.me
 +.huobi.pro
 +.huobi.sc
++.huobipool.com
 +.huobipro.com
 +.huping.net
 +.hurgokbayrak.com
@@ -27343,6 +27570,7 @@ self.events.data.microsoft.com
 +.hxwq.org
 +.hybrid-analysis.com
 +.hyperrate.com
++.hypothes.is
 +.hyread.com.tw
 +.i-cable.com
 +.i-part.com.tw
@@ -27408,6 +27636,7 @@ self.events.data.microsoft.com
 +.ikwb.com
 +.ilbe.com
 +.ilhamtohtiinstitute.org
++.illawarramercury.com.au
 +.illusionfactory.com
 +.ilove80.be
 +.ilovelongtoes.com
@@ -27421,6 +27650,7 @@ self.events.data.microsoft.com
 +.imageshack.us
 +.imagevenue.com
 +.imagezilla.net
++.imago-images.com
 +.imb.org
 +.imdb.com
 +.img.ly
@@ -27429,12 +27659,14 @@ self.events.data.microsoft.com
 +.imgmega.com
 +.imgur.com
 +.imkev.com
++.imlive.co
 +.imlive.com
 +.immigration.gov.tw
 +.immoral.jp
 +.imore.com
 +.impact.org.au
 +.impp.mn
++.improd.works
 +.imtoken.fans
 +.in-disguise.com
 +.in.com
@@ -27481,6 +27713,7 @@ self.events.data.microsoft.com
 +.ip.sb
 +.ipaddress.com
 +.ipalter.com
++.ipdefenseforum.com
 +.ipfire.org
 +.ipfs.io
 +.iphone4hongkong.com
@@ -27508,6 +27741,7 @@ self.events.data.microsoft.com
 +.isasecret.com
 +.isgreat.org
 +.ishowsapp.com
++.ishr.ch
 +.islahhaber.net
 +.islam.org.hk
 +.islamawareness.net
@@ -27568,13 +27802,17 @@ self.events.data.microsoft.com
 +.jandyx.com
 +.janwongphoto.com
 +.japan-whores.com
++.japanhdv.com
 +.japantimes.co.jp
 +.jav.com
 +.jav101.com
 +.jav2be.com
++.jav321.com
 +.jav68.tv
 +.javakiba.org
 +.javbus.com
++.javdb.com
++.javfinder.ai
 +.javfor.me
 +.javhip.com
 +.javhub.net
@@ -27605,6 +27843,7 @@ self.events.data.microsoft.com
 +.jiehua.tv
 +.jiepang.com
 +.jieshibaobao.com
++.jifangge.com
 +.jigglegifs.com
 +.jigong1024.com
 +.jigsy.com
@@ -27616,6 +27855,7 @@ self.events.data.microsoft.com
 +.jingsim.org
 +.jinhai.de
 +.jinpianwang.com
++.jinrizhiyi.news
 +.jinroukong.com
 +.jintian.net
 +.jinx.com
@@ -27648,6 +27888,7 @@ self.events.data.microsoft.com
 +.jshint.com
 +.jtvnw.net
 +.jubushoushen.com
++.judicial.gov.tw
 +.juhuaren.com
 +.jukujo-club.com
 +.juliepost.com
@@ -27663,6 +27904,7 @@ self.events.data.microsoft.com
 +.justgetflux.com
 +.justhost.ru
 +.justicefortenzin.org
++.justmysocks.net
 +.justmysocks1.net
 +.justpaste.it
 +.justtristan.com
@@ -27685,6 +27927,7 @@ self.events.data.microsoft.com
 +.kakao.com
 +.kakaocdn.net
 +.kalachakralugano.org
++.kanald.com.tr
 +.kangye.org
 +.kankan.today
 +.kannewyork.com
@@ -27721,6 +27964,7 @@ self.events.data.microsoft.com
 +.kik.com
 +.killwall.com
 +.kimy.com.tw
++.kindle4rss.com
 +.kindleren.com
 +.kingdomsalvation.org
 +.kinghost.com
@@ -27748,6 +27992,7 @@ self.events.data.microsoft.com
 +.koornk.com
 +.koranmandarin.com
 +.korenan2.com
++.kpkuang.org
 +.kqes.net
 +.kraken.com
 +.krtco.com.tw
@@ -27756,6 +28001,7 @@ self.events.data.microsoft.com
 +.ksnews.com.tw
 +.kspcoin.com
 +.ktzhk.com
++.kuaichedao.co
 +.kucoin.com
 +.kui.name
 +.kukuku.uk
@@ -27771,6 +28017,7 @@ self.events.data.microsoft.com
 +.kyohk.net
 +.kyoyue.com
 +.kyzyhello.com
++.kzaobao.com
 +.kzeng.info
 +.la-forum.org
 +.labiennale.org
@@ -27807,6 +28054,7 @@ self.events.data.microsoft.com
 +.leetcode.com
 +.lefora.com
 +.left21.hk
++.legra.ph
 +.legsjapan.com
 +.leirentv.ca
 +.leisurecafe.ca
@@ -27847,8 +28095,10 @@ self.events.data.microsoft.com
 +.lighten.org.tw
 +.lighti.me
 +.lightyearvpn.com
++.lih.kg
 +.lihkg.com
 +.like.com
++.lilaoshibushinilaoshi.com
 +.limiao.net
 +.lin.ee
 +.line-apps.com
@@ -27860,6 +28110,7 @@ self.events.data.microsoft.com
 +.link-o-rama.com
 +.linkedin.com
 +.linkideo.com
++.linktr.ee
 +.linkuswell.com
 +.linode.com
 +.linpie.com
@@ -27872,6 +28123,7 @@ self.events.data.microsoft.com
 +.list-manage.com
 +.listennotes.com
 +.listorious.com
++.litenews.hk
 +.lithium.com
 +.littlehj.com
 +.liu-xiaobo.org
@@ -27940,6 +28192,7 @@ self.events.data.microsoft.com
 +.luxebc.com
 +.lvhai.org
 +.lvv2.com
++.ly.gov.tw
 +.lyfhk.net
 +.lzjscript.com
 +.lzmtnews.org
@@ -27956,10 +28209,12 @@ self.events.data.microsoft.com
 +.mad-ar.ch
 +.madewithcode.com
 +.madonna-av.com
++.madou.club
 +.madrau.com
 +.madthumbs.com
 +.magic-net.info
 +.mahabodhi.org
++.mahjongsoul.com
 +.maiio.net
 +.mail-archive.com
 +.mail.ru
@@ -27974,9 +28229,11 @@ self.events.data.microsoft.com
 +.mamingzhe.com
 +.manchukuo.net
 +.mandiant.com
++.mangabz.com
 +.mangafox.com
 +.mangafox.me
 +.mangaup.jp
++.mangmang.run
 +.manhuaren.com
 +.maniash.com
 +.manicur4ik.ru
@@ -28001,6 +28258,7 @@ self.events.data.microsoft.com
 +.maskedip.com
 +.mastodon.cloud
 +.mastodon.host
++.mastodon.online
 +.mastodon.social
 +.mastodon.xyz
 +.matainja.com
@@ -28025,6 +28283,7 @@ self.events.data.microsoft.com
 +.mcreasite.com
 +.md-t.org
 +.me.me
++.me.ns.ci
 +.meansys.com
 +.media.org.hk
 +.mediachinese.com
@@ -28040,6 +28299,7 @@ self.events.data.microsoft.com
 +.mega.co.nz
 +.mega.io
 +.mega.nz
++.megalodon.jp
 +.megaproxy.com
 +.megarotic.com
 +.megaupload.com
@@ -28049,9 +28309,12 @@ self.events.data.microsoft.com
 +.meizhong.report
 +.meltoday.com
 +.memehk.com
++.memes.tw
 +.memorybbs.com
 +.memri.org
 +.memrijttm.org
++.mercari.com
++.mercari.jp
 +.mercatox.com
 +.mercdn.net
 +.mercyprophet.org
@@ -28091,6 +28354,7 @@ self.events.data.microsoft.com
 +.mihk.hk
 +.mihr.com
 +.mihua.org
++.mikanani.me
 +.mikesoltys.com
 +.mikocon.com
 +.milph.net
@@ -28119,19 +28383,23 @@ self.events.data.microsoft.com
 +.mingshengbao.com
 +.minhhue.net
 +.miniforum.org
++.miningpoolhub.com
 +.ministrybooks.org
 +.minzhuhua.net
 +.minzhuzhanxian.com
 +.minzhuzhongguo.org
 +.miraheze.org
 +.miroguide.com
++.mirror.xyz
 +.mirrorbooks.com
 +.mirrormedia.mg
++.missav.com
 +.mist.vip
 +.mit.edu
 +.mitao.com.tw
 +.mitbbs.com
 +.mitbbsau.com
++.miuipolska.pl
 +.mixero.com
 +.mixi.jp
 +.mixin.one
@@ -28140,6 +28408,7 @@ self.events.data.microsoft.com
 +.mizzmona.com
 +.mjib.gov.tw
 +.mk5000.com
++.mlc.ai
 +.mlcool.com
 +.mlssoccer.com
 +.mlzs.work
@@ -28157,6 +28426,7 @@ self.events.data.microsoft.com
 +.moeaic.gov.tw
 +.moeerolibrary.com
 +.moegirl.org
++.moeshare.cc
 +.mofa.gov.tw
 +.mofaxiehui.com
 +.mofos.com
@@ -28171,6 +28441,7 @@ self.events.data.microsoft.com
 +.monar.ch
 +.mondex.org
 +.money-link.com.tw
++.moneydj.com
 +.moneyhome.biz
 +.monica.im
 +.monitorchina.org
@@ -28184,6 +28455,7 @@ self.events.data.microsoft.com
 +.moonbingo.com
 +.moptt.tw
 +.morbell.com
++.moresci.sale
 +.morningsun.org
 +.moroneta.com
 +.mos.ru
@@ -28211,6 +28483,7 @@ self.events.data.microsoft.com
 +.msha.gov
 +.msn.com
 +.msn.com.tw
++.mstdn.social
 +.mswe1.org
 +.mthruf.com
 +.mtw.tl
@@ -28289,6 +28562,7 @@ self.events.data.microsoft.com
 +.mytalkbox.com
 +.myteamspeak.com
 +.mytizi.com
++.mywife.cc
 +.mywww.biz
 +.myz.info
 +.naacoalition.org
@@ -28302,6 +28576,7 @@ self.events.data.microsoft.com
 +.namgyal.org
 +.namgyalmonastery.org
 +.namsisi.com
++.nanopool.org
 +.nanyang.com
 +.nanyangpost.com
 +.nanzao.com
@@ -28326,6 +28601,7 @@ self.events.data.microsoft.com
 +.nbc.com
 +.nbcnews.com
 +.nbtvpn.com
++.nbyy.tv
 +.nccwatch.org.tw
 +.nch.com.tw
 +.nchrd.org
@@ -28371,8 +28647,10 @@ self.events.data.microsoft.com
 +.newlandmagazine.com.au
 +.newmitbbs.com
 +.newnews.ca
++.news1.kr
 +.news100.com.tw
 +.newsancai.com
++.newsblur.com
 +.newschinacomment.org
 +.newscn.org
 +.newsdetox.ca
@@ -28387,6 +28665,7 @@ self.events.data.microsoft.com
 +.newsweek.com
 +.newtaiwan.com.tw
 +.newtalk.tw
++.newthuhole.com
 +.newyorker.com
 +.newyorktimes.com
 +.nexon.com
@@ -28443,6 +28722,7 @@ self.events.data.microsoft.com
 +.nobel.se
 +.nobelprize.org
 +.nobodycanstop.us
++.nodeseek.com
 +.nodesnoop.com
 +.nofile.io
 +.nokogiri.org
@@ -28453,6 +28733,7 @@ self.events.data.microsoft.com
 +.nordstromimage.com
 +.nordstromrack.com
 +.nordvpn.com
++.nos.nl
 +.notepad-plus-plus.org
 +.notion.so
 +.nottinghampost.com
@@ -28529,6 +28810,7 @@ self.events.data.microsoft.com
 +.nytstyle.com
 +.nzchinese.com
 +.nzchinese.net.nz
++.o3o.ca
 +.oanda.com
 +.oann.com
 +.oauth.net
@@ -28560,10 +28842,12 @@ self.events.data.microsoft.com
 +.okayfreedom.com
 +.okex.com
 +.okk.tw
++.okpool.me
 +.okx.com
 +.olabloga.pl
 +.old-cat.net
 +.olehdtv.com
++.olelive.com
 +.olevod.com
 +.olumpo.com
 +.olympicwatch.org
@@ -28597,6 +28881,7 @@ self.events.data.microsoft.com
 +.oopsforum.com
 +.ooyala.com
 +.open.com.hk
++.open.firstory.me
 +.openallweb.com
 +.opendemocracy.net
 +.opendn.xyz
@@ -28662,12 +28947,14 @@ self.events.data.microsoft.com
 +.pachosting.com
 +.pacificpoker.com
 +.packetix.net
++.pacom.mil
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
 +.padmanet.com
 +.page.link
 +.pagodabox.com
++.paimon.moe
 +.palacemoon.com
 +.paldengyal.com
 +.paljorpublications.com
@@ -28699,6 +28986,7 @@ self.events.data.microsoft.com
 +.pastie.org
 +.pathtosharepoint.com
 +.patreon.com
++.patreonusercontent.com
 +.pawoo.net
 +.paxful.com
 +.pbs.org
@@ -28729,6 +29017,7 @@ self.events.data.microsoft.com
 +.pen.io
 +.penchinese.com
 +.penchinese.net
++.pendrivelinux.com
 +.pentalogic.net
 +.penthouse.com
 +.pentoy.hk
@@ -28750,8 +29039,10 @@ self.events.data.microsoft.com
 +.phonegap.com
 +.photodharma.net
 +.photofocus.com
++.photonmedia.net
 +.phprcdn.com
 +.phuquocservices.com
++.piaotia.com
 +.piaotian.net
 +.picacomic.com
 +.picacomiccn.com
@@ -28760,6 +29051,8 @@ self.events.data.microsoft.com
 +.picjs.xyz
 +.picturedip.com
 +.picturesocial.com
++.picuki.com
++.pigav.com
 +.pimg.tw
 +.pin-cong.com
 +.pin6.com
@@ -28790,11 +29083,15 @@ self.events.data.microsoft.com
 +.pixelmator.com
 +.pixelqi.com
 +.pixiv.net
++.pixivsketch.net
 +.pixnet.in
 +.pixnet.net
 +.pk.com
 +.pki.goog
++.pkqjiasu.com
++.pkuanvil.com
 +.placemix.com
++.play-asia.com
 +.playartifact.com
 +.playboy.com
 +.playboyplus.com
@@ -28821,6 +29118,7 @@ self.events.data.microsoft.com
 +.podcast.co
 +.podictionary.com
 +.poe.com
++.points-media.com
 +.pokemon.com
 +.pokerstars.com
 +.pokerstars.net
@@ -28831,6 +29129,7 @@ self.events.data.microsoft.com
 +.poloniex.com
 +.polymer-project.org
 +.polymerhk.com
++.poolbinance.com
 +.poolin.com
 +.popai.pro
 +.popo.tw
@@ -28847,6 +29146,7 @@ self.events.data.microsoft.com
 +.postadult.com
 +.postimg.org
 +.potato.im
++.potatso.com
 +.potvpn.com
 +.pourquoi.tw
 +.power.com
@@ -28856,6 +29156,7 @@ self.events.data.microsoft.com
 +.powerpointninja.com
 +.pp.ru
 +.pp.ua
++.ppy.sh
 +.prayforchina.net
 +.premeforwindows7.com
 +.premproxy.com
@@ -28905,6 +29206,7 @@ self.events.data.microsoft.com
 +.ptt.cc
 +.pttgame.com
 +.pttvan.org
++.ptwxz.com
 +.pubu.com.tw
 +.puffinbrowser.com
 +.puffstore.com
@@ -28941,6 +29243,7 @@ self.events.data.microsoft.com
 +.qi-gong.me
 +.qianbai.tw
 +.qiandao.today
++.qianglie.com
 +.qiangwaikan.com
 +.qiangyou.org
 +.qidian.ca
@@ -28970,7 +29273,9 @@ self.events.data.microsoft.com
 +.qx.net
 +.qxbbs.org
 +.qz.com
++.r-pool.net
 +.r0.ru
++.r10s.jp
 +.r18.com
 +.radicalparty.org
 +.radiko.jp
@@ -28990,6 +29295,7 @@ self.events.data.microsoft.com
 +.rainbowplan.org
 +.raindrop.io
 +.raizoji.or.jp
++.rakuten.co.jp
 +.ramcity.com.au
 +.rangwang.biz
 +.rangzen.net
@@ -29011,6 +29317,7 @@ self.events.data.microsoft.com
 +.rd.com
 +.rdio.com
 +.rdtcdn.com
++.reabble.com
 +.read01.com
 +.read100.com
 +.readdle.com
@@ -29088,6 +29395,7 @@ self.events.data.microsoft.com
 +.roboforex.com
 +.robustnessiskey.com
 +.rocket-inc.net
++.rocket.chat
 +.rocketbbs.com
 +.rocksdb.org
 +.rojo.com
@@ -29199,6 +29507,8 @@ self.events.data.microsoft.com
 +.seesmic.com
 +.seevpn.com
 +.seezone.net
++.sehuatang.net
++.sehuatang.org
 +.sejie.com
 +.sellclassics.com
 +.sendsmtp.com
@@ -29250,6 +29560,7 @@ self.events.data.microsoft.com
 +.shambhalasun.com
 +.shangfang.org
 +.shapeservices.com
++.share-videos.se
 +.sharebee.com
 +.sharecool.org
 +.sharpdaily.com.hk
@@ -29300,11 +29611,13 @@ self.events.data.microsoft.com
 +.simplecd.org
 +.simplenote.com
 +.simpleproductivityblog.com
++.simpleswap.io
 +.sina.com.hk
 +.sina.com.tw
 +.sinchew.com.my
 +.singaporepools.com.sg
 +.singfortibet.com
++.singlelogin.se
 +.singpao.com.hk
 +.singtao.ca
 +.singtao.com
@@ -29346,11 +29659,13 @@ self.events.data.microsoft.com
 +.slack.com
 +.slacker.com
 +.slandr.net
++.slashine.onl
 +.slaytizle.com
 +.sleazydream.com
 +.sleazyfork.org
 +.slheng.com
 +.slickvpn.com
++.slides.com
 +.slides.new
 +.slideshare.net
 +.slime.com.tw
@@ -29367,6 +29682,7 @@ self.events.data.microsoft.com
 +.smh.com.au
 +.smhric.org
 +.smith.edu
++.smn.news
 +.smyxy.org
 +.snapchat.com
 +.snapseed.com
@@ -29377,6 +29693,8 @@ self.events.data.microsoft.com
 +.so-net.net.tw
 +.sobees.com
 +.soc.mil
++.social.datalabour.com
++.social.edu.ci
 +.socialblade.com
 +.socialwhale.com
 +.socks-proxy.net
@@ -29416,6 +29734,7 @@ self.events.data.microsoft.com
 +.sorazone.net
 +.sorting-algorithms.com
 +.sos.org
++.sosad.fun
 +.sosreader.com
 +.sostibet.org
 +.sou-tong.org
@@ -29432,6 +29751,7 @@ self.events.data.microsoft.com
 +.sourcewadio.com
 +.south-plus.net
 +.south-plus.org
++.southmongolia.org
 +.southnews.com.tw
 +.sowers.org.hk
 +.sowiki.net
@@ -29440,8 +29760,11 @@ self.events.data.microsoft.com
 +.spankbang.com
 +.spankingtube.com
 +.spankwire.com
++.sparkpool.com
++.spatial.io
 +.spb.com
 +.speakerdeck.com
++.speedcat.me
 +.speedify.com
 +.speedsmart.net
 +.spem.at
@@ -29449,6 +29772,7 @@ self.events.data.microsoft.com
 +.spendee.com
 +.spicevpn.com
 +.spideroak.com
++.spiderpool.com
 +.spike.com
 +.spotflux.com
 +.spreadshirt.es
@@ -29476,6 +29800,7 @@ self.events.data.microsoft.com
 +.sspro.ml
 +.ssr.tools
 +.ssrshare.com
++.ssrshare.us
 +.sss.camp
 +.sstatic.net
 +.sstm.moe
@@ -29510,6 +29835,7 @@ self.events.data.microsoft.com
 +.stickam.com
 +.stickeraction.com
 +.stileproject.com
++.stitcher.com
 +.sto.cc
 +.stoporganharvesting.org
 +.stoptibetcrisis.net
@@ -29546,6 +29872,8 @@ self.events.data.microsoft.com
 +.sun1911.com
 +.sundayguardianlive.com
 +.sunmedia.ca
++.suno.ai
++.suno.com
 +.sunskyforum.com
 +.sunta.com.tw
 +.sunvpn.net
@@ -29578,6 +29906,7 @@ self.events.data.microsoft.com
 +.symcd.com
 +.syncback.com
 +.synergyse.com
++.syosetu.com
 +.sysresccd.org
 +.sytes.net
 +.syx86.com
@@ -29641,6 +29970,7 @@ self.events.data.microsoft.com
 +.tapbots.net
 +.taptap.tw
 +.taragana.com
++.tardigrade.io
 +.target.com
 +.tascn.com.au
 +.taup.net
@@ -29702,6 +30032,7 @@ self.events.data.microsoft.com
 +.tew.org
 +.textnow.com
 +.textnow.me
++.tfc-taiwan.org.tw
 +.tfhub.dev
 +.tfiflve.com
 +.th.hao123.com
@@ -29715,6 +30046,7 @@ self.events.data.microsoft.com
 +.theblemish.com
 +.thebobs.com
 +.thebodyshop-usa.com
++.thechasernews.co.uk
 +.thechinabeat.org
 +.thechinacollection.org
 +.thechinastory.org
@@ -29728,6 +30060,7 @@ self.events.data.microsoft.com
 +.thegioitinhoc.vn
 +.thegly.com
 +.theguardian.com
++.thehindu.com
 +.thehots.info
 +.thehousenews.com
 +.thehun.net
@@ -29741,6 +30074,7 @@ self.events.data.microsoft.com
 +.therock.net.nz
 +.thesaturdaypaper.com.au
 +.thestandnews.com
++.thetatoken.org
 +.thetibetcenter.org
 +.thetibetconnection.org
 +.thetibetmuseum.org
@@ -29751,9 +30085,11 @@ self.events.data.microsoft.com
 +.theverge.com
 +.thevivekspot.com
 +.thewgo.org
++.thewirechina.com
 +.theync.com
 +.thinkgeek.com
 +.thinkingtaiwan.com
++.thirdmill.org
 +.thisav.com
 +.thlib.org
 +.thomasbernhard.org
@@ -29762,6 +30098,7 @@ self.events.data.microsoft.com
 +.threads.net
 +.threatchaos.com
 +.throughnightsfire.com
++.thuhole.com
 +.thumbzilla.com
 +.thywords.com
 +.thywords.com.tw
@@ -29873,11 +30210,13 @@ self.events.data.microsoft.com
 +.tinder.com
 +.tiney.com
 +.tineye.com
++.tingtalk.me
 +.tintuc101.com
 +.tiny.cc
 +.tinychat.com
 +.tinypaste.com
 +.tinypic.com
++.tinyurl.com
 +.tipas.net
 +.tipo.gov.tw
 +.tistory.com
@@ -29898,10 +30237,13 @@ self.events.data.microsoft.com
 +.togetter.com
 +.toggleable.com
 +.toh.info
++.token.im
++.tokenlon.im
 +.tokyo-247.com
 +.tokyo-hot.com
 +.tokyocn.com
 +.tomonews.net
++.tomp3.cc
 +.tomshardware.com
 +.tongil.or.kr
 +.tono-oka.jp
@@ -29915,11 +30257,13 @@ self.events.data.microsoft.com
 +.topnews.in
 +.topshareware.com
 +.toptip.ca
++.toptoon.net
 +.tora.to
 +.torcn.com
 +.torguard.net
 +.torlock.com
 +.torproject.org
++.torrentgalaxy.to
 +.torrentkitty.tv
 +.torrentmac.net
 +.torrentprivacy.com
@@ -29983,6 +30327,7 @@ self.events.data.microsoft.com
 +.tuidang.se
 +.tuitui.info
 +.tuitwit.com
++.tukaani.org
 +.tumbex.com
 +.tumblr.co
 +.tumblr.com
@@ -30014,7 +30359,6 @@ self.events.data.microsoft.com
 +.tw-blog.com
 +.tw-npo.org
 +.tw.hao123.com
-+.tw.iqiyi.com
 +.tw01.org
 +.twaitter.com
 +.twapperkeeper.com
@@ -30112,10 +30456,12 @@ self.events.data.microsoft.com
 +.typcn.com
 +.typekit.net
 +.typepad.com
++.typeset.io
 +.typography.com
 +.typora.io
 +.u15.info
 +.u9un.com
++.ua5v.com
 +.ub0.cc
 +.uberproxy.net
 +.ublock.org
@@ -30142,6 +30488,8 @@ self.events.data.microsoft.com
 +.uku.im
 +.ulike.net
 +.ulop.net
++.ultrasurf.us
++.ultravpn.com
 +.ultravpn.fr
 +.ultraxs.com
 +.ulyssesapp.com
@@ -30167,12 +30515,14 @@ self.events.data.microsoft.com
 +.unity3d.com
 +.unix100.com
 +.unknownspace.org
++.unmineable.com
 +.unodedos.com
 +.unpo.org
 +.unseen.is
 +.unsplash.com
 +.unstable.icu
 +.untraceable.us
++.unwire.hk
 +.uocn.org
 +.updatestar.com
 +.upghsbc.com
@@ -30199,8 +30549,10 @@ self.events.data.microsoft.com
 +.usacn.com
 +.usaip.eu
 +.uscardforum.com
++.uscg.mil
 +.uscnpm.org
 +.usembassy.gov
++.usercontent.goog
 +.usertrust.com
 +.usfk.mil
 +.usgs.gov
@@ -30213,6 +30565,7 @@ self.events.data.microsoft.com
 +.usus.cc
 +.utopianpal.com
 +.uu-gg.com
++.uujiasu.com
 +.uukanshu.com
 +.uvwxyz.xyz
 +.uwants.com
@@ -30231,6 +30584,7 @@ self.events.data.microsoft.com
 +.uygur.org
 +.uymaarip.com
 +.v.gd
++.v2.help
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
@@ -30261,6 +30615,7 @@ self.events.data.microsoft.com
 +.verizon.net
 +.verizonwireless.com
 +.vermonttibet.org
++.vern.cc
 +.versavpn.com
 +.verybs.com
 +.vevo.com
@@ -30316,6 +30671,7 @@ self.events.data.microsoft.com
 +.voanews.com
 +.voatibetan.com
 +.voatibetanenglish.com
++.vocaroo.com
 +.vocativ.com
 +.vocn.tv
 +.vocus.cc
@@ -30327,6 +30683,7 @@ self.events.data.microsoft.com
 +.voy.com
 +.vpl.bibliocommons.com
 +.vpn.ac
++.vpn.net
 +.vpn4all.com
 +.vpnaccount.org
 +.vpnaccounts.com
@@ -30353,6 +30710,7 @@ self.events.data.microsoft.com
 +.vpnpick.com
 +.vpnpop.com
 +.vpnpronet.com
++.vpnproxymaster.com
 +.vpnreactor.com
 +.vpnreviewz.com
 +.vpnsecure.me
@@ -30377,6 +30735,7 @@ self.events.data.microsoft.com
 +.vultr.com
 +.vultryhw.com
 +.vzw.com
++.w-pool.com
 +.w.org
 +.w3.org
 +.w3schools.com
@@ -30417,6 +30776,7 @@ self.events.data.microsoft.com
 +.wattpad.com
 +.wav.tv
 +.waveprotocol.org
++.waybig.com
 +.waymo.com
 +.wd.bible
 +.wda.gov.tw
@@ -30444,6 +30804,7 @@ self.events.data.microsoft.com
 +.webwarper.net
 +.webworkerdaily.com
 +.wechatlawsuit.com
++.weebly.com
 +.weekmag.info
 +.wefightcensorship.org
 +.wefong.com
@@ -30492,6 +30853,7 @@ self.events.data.microsoft.com
 +.whyx.org
 +.widevine.com
 +.wikaba.com
++.wiki.metacubex.one
 +.wikia.com
 +.wikibooks.org
 +.wikidata.org
@@ -30504,6 +30866,7 @@ self.events.data.microsoft.com
 +.wikileaks.lu
 +.wikileaks.org
 +.wikileaks.pl
++.wikiless.funami.tech
 +.wikilivres.info
 +.wikimapia.org
 +.wikimedia.org
@@ -30521,6 +30884,7 @@ self.events.data.microsoft.com
 +.wildammo.com
 +.williamhill.com
 +.willw.net
++.wilsoncenter.org
 +.windowsphoneme.com
 +.windscribe.com
 +.windy.com
@@ -30541,6 +30905,7 @@ self.events.data.microsoft.com
 +.wizcrafts.net
 +.wjbk.org
 +.wmflabs.org
++.wmfusercontent.org
 +.wn.com
 +.wnacg.com
 +.wnacg.org
@@ -30553,6 +30918,7 @@ self.events.data.microsoft.com
 +.woopie.jp
 +.woopie.tv
 +.wordpress.com
++.work2icu.org
 +.workatruna.com
 +.workerdemo.org.hk
 +.workerempowerment.org
@@ -30589,10 +30955,12 @@ self.events.data.microsoft.com
 +.wuguoguang.com
 +.wujie.net
 +.wukangrui.net
++.wunderground.com
 +.wuw.red
 +.wuyanblog.com
 +.wwe.com
 +.wwitv.com
++.www.lorenzetti.com.br
 +.www1.biz
 +.wwwhost.biz
 +.wzyboy.im
@@ -30605,6 +30973,7 @@ self.events.data.microsoft.com
 +.x1949x.com
 +.x24hr.com
 +.x365x.com
++.x3guide.com
 +.xanga.com
 +.xbabe.com
 +.xbookcn.com
@@ -30618,6 +30987,7 @@ self.events.data.microsoft.com
 +.xerotica.com
 +.xfiles.to
 +.xfinity.com
++.xfxssr.me
 +.xgmyd.com
 +.xhamster.com
 +.xianba.net
@@ -30653,13 +31023,16 @@ self.events.data.microsoft.com
 +.xm.com
 +.xml-training-guide.com
 +.xmovies.com
++.xn--11xs86f.icu
 +.xn--4gq171p.com
 +.xn--9pr62r24a.com
 +.xn--czq75pvv1aj5c.org
 +.xn--i2ru8q2qg.com
 +.xn--ngstr-lra8j.com
++.xn--noss43i.com
 +.xn--oiq.cc
 +.xn--p8j9a0d9c9a.xn--q9jyb4c
++.xnpool.com
 +.xnxx-cdn.com
 +.xnxx.com
 +.xpdo.net
@@ -30668,6 +31041,8 @@ self.events.data.microsoft.com
 +.xsden.info
 +.xskywalker.com
 +.xskywalker.net
++.xt.com
++.xt.pub
 +.xteko.com
 +.xtube.com
 +.xuchao.net
@@ -30713,6 +31088,7 @@ self.events.data.microsoft.com
 +.yangjianli.com
 +.yasni.co.uk
 +.yastatic.net
++.yasukuni.or.jp
 +.yayabay.com
 +.ycombinator.com
 +.ydy.com
@@ -30779,6 +31155,7 @@ self.events.data.microsoft.com
 +.yuanzhengtang.org
 +.yulghun.com
 +.yunchao.net
++.yunomi.tokyo
 +.yuvutu.com
 +.yvesgeleyn.com
 +.ywpw.com
@@ -30809,6 +31186,7 @@ self.events.data.microsoft.com
 +.zfreet.com
 +.zgsddh.com
 +.zgzcjj.net
++.zh-hans.cfsh99.com
 +.zhanbin.net
 +.zhangboli.net
 +.zhangtianliang.com
@@ -30818,10 +31196,12 @@ self.events.data.microsoft.com
 +.zhenlibu1984.com
 +.zhenxiang.biz
 +.zhinengluyou.com
++.zhizhu.top
 +.zhongguo.ca
 +.zhongguorenquan.org
 +.zhongguotese.net
 +.zhongmeng.org
++.zhongzidi.com
 +.zhoushuguang.com
 +.zhreader.com
 +.zhuangbi.me
@@ -30835,6 +31215,7 @@ self.events.data.microsoft.com
 +.zippyshare.com
 +.zkaip.com
 +.zkiz.com
++.zmedia.com.tw
 +.zodgame.us
 +.zoho.com
 +.zomobo.net
@@ -30844,6 +31225,8 @@ self.events.data.microsoft.com
 +.zoogvpn.com
 +.zoom.us
 +.zoomgov.com
++.zoominfo.com
++.zooqle.com
 +.zootool.com
 +.zoozle.net
 +.zophar.net
